@@ -21,3 +21,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahidmeraj765&show_icons=true&locale=en" alt="nahidmeraj765" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidmeraj765&" alt="nahidmeraj765" /></p>
+
+### My Contribution Snake
+![Snake animation](https://github.com/nahidmeraj765/nahidmeraj765/blob/output/github-contribution-grid-snake.svg)
+
+
