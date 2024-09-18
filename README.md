@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nahidmeraj765&" alt="nahidmeraj765" /></p>
 
-![snake gif](https://github.com/nahidmeraj765/nahidmeraj765/blob/output/github-contribution-grid-snake.gif)
+![snake_gif](https://github.com/nahidmeraj765/nahidmeraj765/blob/output/github-snake-dark.svg)
