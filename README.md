@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NaHid Hasan</h1>
 <h3 align="center">A Data Science Enthusiast.</h3>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **nahid.meraj765@gmail.com**
 
